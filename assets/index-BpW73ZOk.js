@@ -45,7 +45,7 @@ Error generating stack: `+e.message+`
               px-8\r
               py-4\r
               rounded-2xl\r
-              `,children:`Resume`})]})]}),(0,b.jsx)(`div`,{className:`flex justify-center`,children:(0,b.jsx)(`img`,{src:`/profile.jpg`,alt:`Jithesh`,className:`\r
+              `,children:`Resume`})]})]}),(0,b.jsx)(`div`,{className:`flex justify-center`,children:(0,b.jsx)(`img`,{src:`/jithesh-portfolio/profile.jpg`,alt:`Jithesh`,className:`\r
             w-80\r
             h-80\r
             rounded-full\r
