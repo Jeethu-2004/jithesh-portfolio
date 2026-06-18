@@ -75,8 +75,9 @@ function Hero() {
         <div className="flex justify-center">
 
           <img
-            src="/profile.jpg"
+            src={`${import.meta.env.BASE_URL}profile.jpg`}
             alt="Jithesh"
+
             className="
             w-80
             h-80
