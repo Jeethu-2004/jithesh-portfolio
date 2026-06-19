@@ -39,7 +39,26 @@ Error generating stack: `+e.message+`
               py-4\r
               rounded-2xl\r
               font-semibold\r
-              `,children:`View Projects`}),(0,b.jsx)(`a`,{href:`/jithesh-portfolio/resume.pdf`,target:`_blank`,rel:`noreferrer`,children:`Resume`})]})]}),(0,b.jsx)(`div`,{className:`flex justify-center`,children:(0,b.jsx)(`img`,{src:`/jithesh-portfolio/profile.jpg`,alt:`Jithesh`,className:`\r
+              `,children:`View Projects`}),(0,b.jsx)(`a`,{href:`/jithesh-portfolio/resume.pdf`,target:`_blank`,rel:`noreferrer`,className:`\r
+                inline-block\r
+                ml-4\r
+                px-8\r
+                py-4\r
+                rounded-2xl\r
+                border\r
+                border-cyan-400\r
+                text-cyan-300\r
+                font-semibold\r
+                bg-slate-900/40\r
+                shadow-lg\r
+                shadow-cyan-500/20\r
+                hover:bg-cyan-500\r
+                hover:text-white\r
+                hover:shadow-cyan-500/50\r
+                hover:scale-105\r
+                transition-all\r
+                duration-300\r
+              `,children:`Resume`})]})]}),(0,b.jsx)(`div`,{className:`flex justify-center`,children:(0,b.jsx)(`img`,{src:`/jithesh-portfolio/profile.jpg`,alt:`Jithesh`,className:`\r
             w-80\r
             h-80\r
             rounded-full\r
