@@ -53,14 +53,28 @@ function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
-              download
+              href={`${import.meta.env.BASE_URL}resume.pdf`}
+              target="_blank"
+              rel="noreferrer"
               className="
-              border
-              border-sky-400
-              px-8
-              py-4
-              rounded-2xl
+                inline-block
+                ml-4
+                px-8
+                py-4
+                rounded-2xl
+                border
+                border-cyan-400
+                text-cyan-300
+                font-semibold
+                bg-slate-900/40
+                shadow-lg
+                shadow-cyan-500/20
+                hover:bg-cyan-500
+                hover:text-white
+                hover:shadow-cyan-500/50
+                hover:scale-105
+                transition-all
+                duration-300
               "
             >
               Resume
